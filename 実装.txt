@@ -7,7 +7,7 @@
 作成時にQRコード表示
 コピーjs
 テキストエリア
-→完成(コピーjsではなく)
+→firebaseで作成が滞ったためGASのみで完成(コピーjsではなくClipboardJSだった)
 　https://taroyanaka.github.io/javascript/etc/withnode/textShare.html
 
 gistをdump
@@ -24,3 +24,4 @@ QAセーブ実装
 local storageじゃないほうのやつ調査
 
 n秒で自動で消えるメモ
+→firebaseで作成が滞っているため棚上げ重要度低い
