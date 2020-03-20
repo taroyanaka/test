@@ -7,6 +7,8 @@
 作成時にQRコード表示
 コピーjs
 テキストエリア
+→完成(コピーjsではなく)
+　https://taroyanaka.github.io/javascript/etc/withnode/textShare.html
 
 gistをdump
 ガス
