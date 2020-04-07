@@ -1,6 +1,6 @@
 text replacer
 AJAXっぽい予測候補できるやつ
-CSS学習キット
+CSS学習キット　HTMLとCSSセットで保存するやつ　サンプルをリストか何かですぐに取り出せる
 SQL学習キット
 
 テキストPicker
