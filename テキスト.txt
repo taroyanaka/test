@@ -1,6 +1,23 @@
-text replacer
-AJAXっぽい予測候補できるやつ
+
+WIP
+game
+https://taroyanaka.github.io/javascript/etc/game/gameorigin.html
+htmlcsssamplelister
+https://taroyanaka.github.io/javascript/etc/withnode/htmlcsssamplelister.html
+
+Emoji mixer 英数に絵文字割り当て　パターンのリスト　どちらも保存可能
+
+マップと写真絡めたやつ　時間軸とかフィルタリングのUIを良い感じにする　あれの本を叩き台にする
+
+text replacerの置き換えをr.reduceでできるか試す
+
+local storageじゃないほうのやつ調査
+n秒で自動で消えるメモ
+
 CSS学習キット　HTMLとCSSセットで保存するやつ　サンプルをリストか何かですぐに取り出せる
+
+サジェスターの行で検索できるやつ
+
 SQL学習キット
 
 パラレルタイマー
@@ -14,7 +31,3 @@ QA誤回答セーブ
 
 メモグルーピングtolower カンマドット削除モード
 メモグルーピングyanaka.devに反映
-
-local storageじゃないほうのやつ調査
-
-n秒で自動で消えるメモ
