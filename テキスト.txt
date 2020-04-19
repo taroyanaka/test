@@ -1,9 +1,16 @@
+text pickerっぽいUIで行間に行増やせたり編集したりできるやつ
+穴空き問題つくるやつ
+
+
 
 WIP
 game
 https://taroyanaka.github.io/javascript/etc/game/gameorigin.html
+
 htmlcsssamplelister
 https://taroyanaka.github.io/javascript/etc/withnode/htmlcsssamplelister.html
+リスターのそれぞれのセーブデータを一つずつ削除できるようにする
+
 
 Emoji mixer 英数に絵文字割り当て　パターンのリスト　どちらも保存可能
 
